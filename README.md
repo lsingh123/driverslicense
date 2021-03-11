@@ -1,6 +1,8 @@
 # driverslicense
 
-## Getting Started
+![image](https://github.com/lsingh123/driverslicense/blob/main/docs/usage.png)
+
+## Installation
 
 1. Download this repository. If you're not familiar with the terminal, just click the green button at the top right of the screen labelled "Code" and select 
 "Download ZIP." If you are familiar with the terminal, clone this repo in the usual way.
@@ -13,4 +15,9 @@
 
 4. Click the Load unpacked button and select the extension directory.
 
+![image](https://github.com/lsingh123/driverslicense/blob/main/docs/google.png)
+
+## Usage
+
+Click on the Olivia icon in your extension bar. Enter the text you wish to accent and hit submit. Use with caution - it's easy to get drunk on the power.
 
