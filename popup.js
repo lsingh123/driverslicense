@@ -55,11 +55,6 @@ var translations = {
 
 window.addEventListener('load', addListener);
 
-
-function recieveText(resultsArray) {
-  alert(resultsArray);
-}
-
 function addListener() {
   let submit = document.getElementById("submit_button");
   let inp = document.getElementById("userInput");
@@ -105,9 +100,7 @@ async function processInput(input) {
 }
 
 function showResult(document, answer) {
-
   var paragraph = document.getElementById("result");
-
   paragraph.textContent = answer;
 
 }
