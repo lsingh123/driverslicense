@@ -8,7 +8,7 @@
 "Download ZIP." Unzip the folder. If you are familiar with the terminal, clone this repo in the usual way.
 
 2. Open the Extension Management page by navigating to chrome://extensions.
-3. 
+
    *Alternatively* Open this page by clicking on the Extensions menu button and selecting Manage Extensions at the bottom of the menu.
    
    *Alternatively* Open this page by clicking on the Chrome menu, hovering over More Tools then selecting Extensions
